@@ -1,0 +1,17 @@
+.screen_fix {}
+
+@media (min-width: 993px) {
+  .screen_fix {
+    padding-top: 300px;
+  }
+}
+
+@media (min-width: 1367px) {
+  .screen_fix {
+    padding-top: 200px;
+  }
+}
+
+.pointer {
+  cursor: pointer;
+}
